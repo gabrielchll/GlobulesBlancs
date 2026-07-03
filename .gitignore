@@ -2,3 +2,5 @@ barcelona.zip
 barcelona/
 barcelona.zip
 barcelona/
+.DS_Store
+__pycache__/
