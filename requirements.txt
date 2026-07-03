@@ -1,0 +1,11 @@
+# Entraînement (train_all.py) + démo (app_demo_cpu.py)
+torch
+torchvision
+numpy
+pillow
+matplotlib
+scikit-learn
+pandas
+opencv-python-headless
+gradio
+plotly
